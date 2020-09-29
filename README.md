@@ -2,6 +2,8 @@
  Repositório para exercicios das aulas de Inteligência Artificial
 
 SISTEMA OPERACIONAL UTILIZADO: Windows 10 64 bits.
+IDE Utilizada: Netbeans
+Linguagem utilizada: Java
 
 Arquivos de entrada para os execicios de revisão 1:
 
