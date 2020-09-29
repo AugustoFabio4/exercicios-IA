@@ -29,7 +29,34 @@ Linha 1 coluna 9: 91,92,93,94,95,96,97,98,99,100
 
 5 - 10,9,8,7,6,5,4,3,2,1
 
-6 - Não consegui terminar
+6 - Entradas das tarefas:
+
+Tarefa 1: Fazer atividade
+Tarefa 2: Fazer almoco
+Tarefa 3: comer
+Tarefa 4: dormir
+Tarefa 5: comprar comida do mes
+Tarefa 6: estudar engenharia de software
+Tarefa 7: ler artigos de empreendedorismo
+Tarefa 8: comecar lista de revisao 2 de IA
+Tarefa 9: descansar
+Tarefa 10: dormir
+
+PRIORIDADE DE CADA TAREFA:
+
+Tarefa 1: 1
+Tarefa 2: 2
+Tarefa 3: 2
+Tarefa 4: 1
+Tarefa 5: 3
+Tarefa 6: 4
+Tarefa 7: 5
+Tarefa 8: 1
+Tarefa 9: 5
+Tarefa 10: 1
+
+
+
 
 
 
